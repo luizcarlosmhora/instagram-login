@@ -1,4 +1,4 @@
-* {
+* {/*Configuração pra zerar o padrão do CSS3 - Recomendo sempre*/
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -21,7 +21,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: start;
-    width: 50%;
+    width: 60%;
     height: 100vh;
 }
 
@@ -33,7 +33,7 @@ body {
 }
 
 .instagram-phone img {
-    height: 50rem;
+    height: 40rem;
 }
 
 .instagram-continue {
@@ -41,7 +41,7 @@ body {
     align-items: center; /* horizontal */
     justify-content: space-around; /* vertical */
     flex-direction: column;
-    width: 50%;
+    width: 40%;
     min-height: 34rem;
 }
 
@@ -127,7 +127,7 @@ body {
     background-image: url('./img/googleplay-button.png');
 }
 
-/* media queries */
+/* media queries (Resposnsividade)*/
 
 
 @media (max-width: 1024px) {
