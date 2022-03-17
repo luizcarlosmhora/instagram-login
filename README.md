@@ -7,7 +7,7 @@ Projeto utilizando CSS Flexbox e responsividade.
 
 ## :interrobang: Motivo
 
-Treinamento sobre programar páginas de internet e desenvolver websites utilizando HTML, CSS e JavaScript pra desenvolvimento web front-end.
+Treinamento sobre desenvolviment web utilizando HTML, CSS e JavaScript pra desenvolvimento web front-end.
 
 ## :seedling: Requisitos Mínimos
 
