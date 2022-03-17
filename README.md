@@ -1,3 +1,5 @@
+<p alinhar = "centro">
+<img src="https://github.com/luizcarlosmhora/instagram-login/blob/main/img/Banner.png" max-width="800">
 
 ## :information_source: Sobre
 
